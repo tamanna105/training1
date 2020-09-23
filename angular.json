@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "training1"
+    }
+  },
+  "defaultProject": "training1",
+  "cli": {
+    "analytics": false
+  }
 }
